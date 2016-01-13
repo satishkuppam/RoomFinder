@@ -1,0 +1,40 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "India",
+      "cities": [
+        {
+          "id": 1,
+          "name": "Hyderabad",
+
+          "buildings": {
+
+            "building": {
+
+              "id": 1,
+              "name": "Midtown",
+
+              "floors": {
+
+                "floor": {
+
+                  "id": 1,
+                  "name": "Floor1",
+
+                  "rooms": {
+
+                    "room": {
+                      "id": 1,
+                      "name": "Conf Room1"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
